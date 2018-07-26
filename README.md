@@ -1,3 +1,5 @@
+![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ThaiPass_Poster.jpg "ThaiPASS 2018 Poster")
+
 # ThaiPASS2018
 
 Welcome to the Thailand-UK Python Astronomy Summer School (ThaiPASS) 2018
