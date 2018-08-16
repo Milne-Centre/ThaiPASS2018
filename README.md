@@ -1,4 +1,4 @@
-![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ThaiPass_Poster.jpg "ThaiPASS 2018 Poster")
+![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/thaipass_poster.jpg "ThaiPASS 2018 Poster")
 
 # ThaiPASS2018
 
