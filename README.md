@@ -19,4 +19,4 @@ we can address any problems you may have via either email, or in person when you
 
 ### The Data
 
-The data can be found on this github repository webpage under [insert filename here]... Blah
+The data in order to complete the tasks can be found on this github repository webpage by [clicking here](https://github.com/Milne-Centre/ThaiPASS2018/tree/master/StarterPack/DATA_FOR_TASKS "ThaiPASS Data")...
