@@ -2,7 +2,7 @@
 
 # ThaiPASS2018
 
-Welcome to the Thailand-UK Python Astronomy Summer School (ThaiPASS) 2018
+Welcome to the Thailand-UK Python Astronomy Summer School ([ThaiPASS](https://indico.narit.or.th/event/81/page/18-home "ThaiPASS Website")) 2018
 
 Here you will find all the information, documentation and files/data required to carry out the myriad of fun tasks and activities that will 
 hopefully prepare you for the summer school.
@@ -17,6 +17,9 @@ we can address any problems you may have via either email, or in person when you
 - Basic skills in Python (Introduction to basic programming in python)
 - Advanced skil in Python (Higher-level concepts to programming in python with examples in Astronomy)
 
-### The Data
+### First Things First
 
-The data in order to complete the tasks can be found on this github repository webpage by [clicking here](https://github.com/Milne-Centre/ThaiPASS2018/tree/master/StarterPack/DATA_FOR_TASKS "ThaiPASS Data")...
+You should ideall start by downloading everything on this repository. [Click here](https://github.com/Milne-Centre/ThaiPASS2018/archive/master.zip "ThaiPASS 2018 .Zip file") to download the .zip file. This contains all the information and data you will need to be prepared for the school.
+
+Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
+
