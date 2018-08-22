@@ -19,7 +19,6 @@ we can address any problems you may have via either email, or in person when you
 
 ### First Things First
 
-You should ideall start by downloading everything on this repository. [Click here](https://github.com/Milne-Centre/ThaiPASS2018/archive/master.zip "ThaiPASS 2018 .Zip file") to download the .zip file. This contains all the information and data you will need to be prepared for the school.
+You should start by downloading everything on this repository. [Click here](https://github.com/Milne-Centre/ThaiPASS2018/archive/master.zip "ThaiPASS 2018 .Zip file") to download the .zip file. This contains all the information and data you will need to be prepared for the school.
 
 Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
-
