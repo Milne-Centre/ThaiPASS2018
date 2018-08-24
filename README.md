@@ -27,12 +27,16 @@ Once downloaded, Windows OS users should proceed to install the software onto yo
 
 When you have loaded the application, there will be a screen that will ask you if you would like to "sign-in' into a Git Hub account, you may click on "skip this step" as it is not necessary.
 
-The next screen will ask you to input your name and e-mail address, please do fill in each of these fields and then continue onto the next page. We will detail how to "clone" a repository below. 
+The next screen will ask you to input your name and e-mail address, please do fill in each of these fields and then continue onto the next page. We will detail how to download a repository below. 
 
 #### Downloading Repositories using Git Hub 
 
-- You should now have a screen like the one below,
+We will now guide you through downloading (known as "cloning") a repository from git hub using the desktop software
 
+- You should now have a screen like the one below: 
 
+![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ExampleOne.png "Screenshot of Git Hub GUI")
+
+- Please click on "Clone a Repository", you will then be presented with the box with different 'tabs' to choose from, select "URL" (see below), then copy and past this link https://github.com/Milne-Centre/ThaiPASS2018.git into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned by clicking on the "Choose..." button.
 
 Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
