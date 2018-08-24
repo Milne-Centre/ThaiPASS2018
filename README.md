@@ -19,7 +19,9 @@ we can address any problems you may have via either email, or in person when you
 
 ### First Things First - How to use Git Hub
 
-You should start by downloading everything on this repository. To do this we will use the git hub desktop software: for Apple MacOS users [click here](https://central.github.com/deployments/desktop/desktop/latest/darwin "Git Hub MacOS"), for Microsoft Windows OS users [click here](https://central.github.com/deployments/desktop/desktop/latest/win32 "Git Hub Windows OS"). 
+Using Git Hub is a great tool for professionals who write programs. What makes it so great to use is that if there changes to the docts and pieces of written code, usually to fix problems or 'bugs', they can be uploaded to Git Hub and then everyone that uses the code from that repository can then update their versions quickly and simply 'at the push of a button'.
+
+Now, we should start by downloading everything on this repository. To do this we will use the git hub desktop software: for Apple MacOS users [click here](https://central.github.com/deployments/desktop/desktop/latest/darwin "Git Hub MacOS"), for Microsoft Windows OS users [click here](https://central.github.com/deployments/desktop/desktop/latest/win32 "Git Hub Windows OS"). 
 
 Once downloaded, Windows OS users should proceed to install the software onto your machines by double-clicking on the downloaded file and following the on-screen instructions; MacOS users only have to 'unzip' the file and the application can be loaded straight away by double-clicking on the unzipped file. 
 
@@ -28,5 +30,9 @@ When you have loaded the application, there will be a screen that will ask you i
 The next screen will ask you to input your name and e-mail address, please do fill in each of these fields and then continue onto the next page. We will detail how to "clone" a repository below. 
 
 #### Downloading Repositories using Git Hub 
+
+- You should now have a screen like the one below,
+
+
 
 Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
