@@ -17,8 +17,10 @@ we can address any problems you may have via either email, or in person when you
 - Basic skills in Python (Introduction to basic programming in python)
 - Advanced skil in Python (Higher-level concepts to programming in python with examples in Astronomy)
 
-### First Things First
+### First Things First - How to use Git Hub
 
-You should start by downloading everything on this repository. [Click here](https://github.com/Milne-Centre/ThaiPASS2018/archive/master.zip "ThaiPASS 2018 .Zip file") to download the .zip file. This contains all the information and data you will need to be prepared for the school.
+You should start by downloading everything on this repository. To do this we will use the git hub desktop software: for Apple MacOS users [click here](https://central.github.com/deployments/desktop/desktop/latest/darwin "Git Hub MacOS"), for Microsoft Windows OS users [click here](https://central.github.com/deployments/desktop/desktop/latest/win32 "Git Hub Windows OS"). 
+
+Once downloaded proceed to install the software onto your machines. 
 
 Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
