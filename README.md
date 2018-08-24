@@ -13,7 +13,7 @@ The starter pack should ideally be completed (read and understood with tasks att
 everyone on the summer school is at the same level of knowledge and experience with coding/programming in the Python language, and to make sure
 we can address any problems you may have via either email, or in person when you arrive. The starter pack contains:
 
-- Introduction to ThaiPASS and installation instructions for the Python distribution package Anaconda
+- Introduction to ThaiPASS and installation instructions for the Python distribution package Anaconda and NuPyCEE
 - Basic skills in Python (Introduction to basic programming in python)
 - Advanced skil in Python (Higher-level concepts to programming in python with examples in Astronomy)
 
