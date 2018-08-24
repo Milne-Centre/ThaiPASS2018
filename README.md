@@ -37,6 +37,18 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 ![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ExampleOne.png "Screenshot of Git Hub GUI")
 
-- Please click on "Clone a Repository", you will then be presented with the box with different 'tabs' to choose from, select "URL" (see below), then copy and past this link https://github.com/Milne-Centre/ThaiPASS2018.git into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned by clicking on the "Choose..." button.
+- Please click on "Clone a Repository", you will then be presented with the box with different 'tabs' to choose from, select "URL" (see below). 
 
-Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
+- Then copy and past this link, https://github.com/Milne-Centre/ThaiPASS2018.git, into the Repository URL Box. You then may choose the location on where the folders and files from the repository are downloaded/cloned to by clicking on the "Choose..." button.
+
+![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/ExampleTwo.png "Screenshot of Clone a Repository Box GUI")
+
+- When you are happy with the location of your cloned directory, press the blue "Clone" button in the bottom-right corner of the box.
+
+After you have done these steps, follow the installation instructions and website links/URLs for the key software packages used found in the "Introduction.pdf" file in the "StarterPack" folder.
+
+We hope you will enjoy your time preparing for the summer school, and do not forget to contact the ThaiPASS UK team with any questions or problems you may have with the tasks we supply here. E-mail: thaipass@hull.ac.uk 
+
+Regards,
+
+The ThaiPASS UK Team
