@@ -21,6 +21,12 @@ we can address any problems you may have via either email, or in person when you
 
 You should start by downloading everything on this repository. To do this we will use the git hub desktop software: for Apple MacOS users [click here](https://central.github.com/deployments/desktop/desktop/latest/darwin "Git Hub MacOS"), for Microsoft Windows OS users [click here](https://central.github.com/deployments/desktop/desktop/latest/win32 "Git Hub Windows OS"). 
 
-Once downloaded proceed to install the software onto your machines. 
+Once downloaded, Windows OS users should proceed to install the software onto your machines by double-clicking on the downloaded file and following the on-screen instructions; MacOS users only have to 'unzip' the file and the application can be loaded straight away by double-clicking on the unzipped file. 
+
+When you have loaded the application, there will be a screen that will ask you if you would like to "sign-in' into a Git Hub account, you may click on "skip this step" as it is not necessary.
+
+The next screen will ask you to input your name and e-mail address, please do fill in each of these fields and then continue onto the next page. We will detail how to "clone" a repository below. 
+
+#### Downloading Repositories using Git Hub 
 
 Once you have done this, follow the installation instructions found in the "Introduction.pdf" file in the "StarterPack" folder.
