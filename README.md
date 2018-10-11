@@ -45,6 +45,18 @@ We will now guide you through downloading (known as "cloning") a repository from
 
 - When you are happy with the location of your cloned directory, press the blue "Clone" button in the bottom-right corner of the box.
 
+#### Updating Repositories using Git Hub
+
+During the week of the summer school, we may add new things to this repository. So, we will need to update what we have already downloaded.
+
+- To do this in 'Git Hub Desktop', select "ThaiPASS2018" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
+
+!{alt text]()
+
+- With the "ThaiPASS2018" repository selected within git hub desktop, now click the "Fetch Origin" button (as indicated by the blue arrow).
+
+You now have updated the repository with the latest changes and files.
+
 After you have done these steps, follow the installation instructions and website links/URLs for the key software packages used found in the "Introduction_README.pdf" file in the "StarterPack" folder.
 
 We hope you will enjoy your time preparing for the summer school, and do not forget to contact the ThaiPASS UK team with any questions or problems you may have with the tasks we supply here. E-mail: thaipass@hull.ac.uk 
@@ -52,3 +64,5 @@ We hope you will enjoy your time preparing for the summer school, and do not for
 Regards,
 
 The ThaiPASS UK Team
+
+##### Note: Added information on how to update git hub repositories using 'Git Hub Desktop'
