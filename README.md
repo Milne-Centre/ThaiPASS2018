@@ -51,7 +51,7 @@ During the week of the summer school, we may add new things to this repository. 
 
 - To do this in 'Git Hub Desktop', select "ThaiPASS2018" on the left hand side of the git hub desktop window (see the red arrow in image below), if it is not already selected.
 
-!{alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/updateghrepos.png "Screenshot of Updating a Repository with GUI")
+![alt text](https://github.com/Milne-Centre/ThaiPASS2018/blob/master/updateghrepos.png "Screenshot of Updating a Repository with GUI")
 
 - With the "ThaiPASS2018" repository selected within git hub desktop, now click the "Fetch Origin" button (as indicated by the blue arrow).
 
