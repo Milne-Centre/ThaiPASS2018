@@ -7,6 +7,28 @@ Welcome to the Thailand-UK Python Astronomy Summer School ([ThaiPASS](https://in
 Here you will find all the information, documentation and files/data required to carry out the myriad of fun tasks and activities that will 
 hopefully prepare you for the summer school.
 
+## Structure of this Directory
+
+The folders above contain the following materials from the ThaiPASS-2018 summer school:
+
+## BenoitCote_Galactic_...
+Contains the necessary worksheets, lecture notes and data for the Galactic Chemical evolution activities.
+
+## Lecture slides
+This directory contains all other lecture notes (Euler method, nucleosynthesis and stellar evolution).
+
+## Model_answers
+
+Contains the model answers for the Hertzsprung-Russell diagram and Kepler's laws of planitary motion activities.
+
+## StarterPack
+
+Contains the Introductory and Advanced notebooks used as a first introduction for students to complete before attending the summer school.
+
+## SummerSchool Tasks
+
+Contains the worksheet notebooks for the Hertzsprung-Russell diagram and Kepler's laws of planitary motion activities.
+
 ### The Starter Pack
 
 The starter pack should ideally be completed (read and understood with tasks attempted) prior to the start of the summer school. This is to ensure
